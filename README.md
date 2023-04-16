@@ -11,5 +11,5 @@ detect_collision : detects that car have collided or not by checking their curre
 
 time_of_collision :return the time taken to collide by just using vectors ; It calculates the distance between the two cars and divides it by their relative speed ;
 
-Sone maths function are also used ;
+Some maths function are also used ;
 
