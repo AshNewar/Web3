@@ -40,7 +40,7 @@ class Car{
 
     //detects whether the cars have collided or not
     public boolean detect_collision(Car car2){
-        return (car2.x==this.x && car2.y==this.y);
+        return (car2.x==this.x && car2.y==this.y && car2.z==this.z);
     }
 
     //returns the time taken to collide
