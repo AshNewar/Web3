@@ -5,7 +5,7 @@ accelerate(x) :increases the speed by x ;
 
 brake(x) : decreases the speed by x .If the speed is less than x than it becomes 0;
 
-move() : update the position x and y ;
+move() : update the position x and y and z;
 
 detect_collision : detects that car have collided or not by checking their current position ;
 
